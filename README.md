@@ -32,4 +32,4 @@ Como a Aconchego é uma ONG fictícia e não existe um vídeo institucional real
 
 ## Repositório
 
-https://github.com/bernardhito/rede-amparo
+https://github.com/Stx44/rede-amparo
